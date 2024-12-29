@@ -25,5 +25,12 @@ To get started with the project, follow these steps:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/OmNilawar/NEXT-Project.git
+```
+
+Now to start the project 
+```bash
+cd NEXT-project
+npm install
+npm run dev
 ```
